@@ -24,15 +24,16 @@ I use mainly 2 colorschemes:
 Birds of paradise comes installed with the .vimrc and pre-activated.
 
 Flattened sky is a personal custom colorscheme, inspirated by the *romainl flattened* colorscheme :)
+
 **To Install:** copy *flattened_sky.vim* to *cd ~/.vim/bundle/flattened/colors*
 
 #### Some screenshots:
 
 ###### birds of paradise
-![birds-of-paradise](https://github.com/gabrielgatu/dotfiles/vim-screenshots/birds-of-paradise.png)
+![birds-of-paradise](https://github.com/gabrielgatu/dotfiles/blob/master/vim-screenshots/birds-of-paradise.png)
 
 ###### flattened_sky
-![flattened_sky](https://github.com/gabrielgatu/dotfiles/vim-screenshots/flattened_sky.png)
+![flattened_sky](https://github.com/gabrielgatu/dotfiles/blob/master/vim-screenshots/flattened_sky.png)
 
 ###### jellybeans
-![jellybeans](https://github.com/gabrielgatu/dotfiles/vim-screenshots/jellybeans.png)
+![jellybeans](https://github.com/gabrielgatu/dotfiles/blob/master/vim-screenshots/jellybeans.png)
