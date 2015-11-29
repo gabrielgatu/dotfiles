@@ -89,4 +89,4 @@ Flattened sky is a personal custom colorscheme, inspirated by the *romainl flatt
 Material Online
 ---
 - For more informations about setting up vim follow this awesome page: http://blog.tjll.net/yet-another-vim-setup/
-- Basic&Medium Vim commands (and really any thoughtbot video) : https://www.youtube.com/watch?v=wlR5gYd6um0
+- Basic&Medium Vim commands (and really any thoughtbot video suggested) : https://www.youtube.com/watch?v=wlR5gYd6um0
