@@ -21,7 +21,7 @@ Compiling YCM with semantic support for C-family languages:
 cd ~/.vim/bundle/YouCompleteMe
 ./install.py --clang-completer
 
-
+###### Further informations about setting up Vim:
 *For more informations use this awesome page: http://blog.tjll.net/yet-another-vim-setup/*
 
 Themes
