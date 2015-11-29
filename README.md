@@ -4,25 +4,27 @@ Setup
 ---
 
 **Editor**
-- MacVim, if you can :)
+- Mac: MacVim (https://github.com/b4winckler/macvim/releases - download the .tbz)
+- Ubuntu: 
+ - "sudo -s"
+ - "apt-get install vim"
 
 **Installation:**
-- Copy the content from *vimrc* file to *~/.vimrc*
-- Run: *git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle*
-- Run: *vim +BundleInstall +qall*
+- Copy the content from *vimrc* file to *~/.vimrc (Need to create if ~/.vimrc doesn't exists)*
+- Run: *"git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle"*
+- Run: *"vim +BundleInstall +qall"*
 - Start writing code!
 
 ###### **Enable auto-complete - From Valloric/YouCompleteMe inside the Mac section**
 
-Install CMake. Preferably with Homebrew, but here's the stand-alone CMake installer. (brew install cmake)
+Install CMake. 
+- On Mac preferably with Homebrew (brew install cmake).
+- On Ubuntu it should be pre-installed.
 
-Compiling YCM with semantic support for C-family languages:
+Compiling YouCompleteMe with semantic support for C-family languages:
 
 cd ~/.vim/bundle/YouCompleteMe
 ./install.py --clang-completer
-
-###### Further informations about setting up Vim:
-*For more informations use this awesome page: http://blog.tjll.net/yet-another-vim-setup/*
 
 Themes
 ---
@@ -42,8 +44,15 @@ Flattened sky is a personal custom colorscheme, inspirated by the *romainl flatt
 ###### birds of paradise
 ![birds-of-paradise](https://github.com/gabrielgatu/dotfiles/blob/master/vim-screenshots/birds-of-paradise.png)
 
+###
+
 ###### flattened_sky
 ![flattened_sky](https://github.com/gabrielgatu/dotfiles/blob/master/vim-screenshots/flattened_sky.png)
 
 ###### jellybeans
 ![jellybeans](https://github.com/gabrielgatu/dotfiles/blob/master/vim-screenshots/jellybeans.png)
+
+Material Online
+---
+- For more informations about setting up vim follow this awesome page: http://blog.tjll.net/yet-another-vim-setup/
+- Basic&Medium Vim commands (and really any thoughtbot video) : https://www.youtube.com/watch?v=wlR5gYd6um0
