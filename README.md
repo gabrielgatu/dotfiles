@@ -26,6 +26,40 @@ Compiling YouCompleteMe with semantic support for C-family languages:
 cd ~/.vim/bundle/YouCompleteMe
 ./install.py --clang-completer
 
+Plugins installed & Options
+---
+The .vimrc file contains already some plugins and options:
+
+###### Plugins
+- Vundle plugin manager
+- Nerdtree for file navigation
+- Ctrlp for - really - file navigation
+- Syntastic syntax checking
+- Airline for a nice statusbar
+- Vim-surround for surroundings things
+- Vim-commentary for commenting things
+- YouCompleteMe for completing - with engines
+
+###### Languages
+- Vim-elixir for elixir support
+- Vim-mix for mix support
+
+###### Themes
+- Solarized theme
+- Jellybeans theme
+- Birds of paradise theme (default)
+- Flattened theme
+
+###### Configs
+- Font: Monaco 11
+- Relative numbers
+- Tabs: 2 spaces
+
+###### Mappings
+- Mappings for running mix (Elixir)
+- Mappings for moving between buffers
+- Mappings for editing text
+
 Themes
 ---
 
