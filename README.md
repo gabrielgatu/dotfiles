@@ -12,6 +12,16 @@ Setup
 - Run: *vim +BundleInstall +qall*
 - Start writing code!
 
+###### **Enable auto-complete - From Valloric/YouCompleteMe inside the Mac section**
+
+Install CMake. Preferably with Homebrew, but here's the stand-alone CMake installer. (brew install cmake)
+
+Compiling YCM with semantic support for C-family languages:
+
+cd ~/.vim/bundle/YouCompleteMe
+./install.py --clang-completer
+
+
 *For more informations use this awesome page: http://blog.tjll.net/yet-another-vim-setup/*
 
 Themes
